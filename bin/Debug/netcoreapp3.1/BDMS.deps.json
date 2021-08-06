@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BDMS/1.0.0": {
+        "dependencies": {
+          "CircularProgressBar": "2.8.0.16",
+          "FontAwesome.Sharp": "5.15.3",
+          "TargitChartApi": "0.256.0"
+        },
+        "runtime": {
+          "BDMS.dll": {}
+        }
+      },
+      "CircularProgressBar/2.8.0.16": {
+        "runtime": {
+          "lib/net40/CircularProgressBar.dll": {
+            "assemblyVersion": "2.8.0.16",
+            "fileVersion": "2.8.0.16"
+          }
+        }
+      },
+      "FontAwesome.Sharp/5.15.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/FontAwesome.Sharp.dll": {
+            "assemblyVersion": "5.15.3.0",
+            "fileVersion": "5.15.3.0"
+          }
+        }
+      },
+      "TargitChartApi/0.256.0": {
+        "runtime": {
+          "lib/net40/TargitChartApi.dll": {
+            "assemblyVersion": "0.256.0.1",
+            "fileVersion": "0.256.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BDMS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CircularProgressBar/2.8.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-P31wJxwTcQ2mA7wB4X+tnc9QlfSNyPzEOyt3qjf2/6cLLi8mERAfEwNcgt3Qv38/Xiyreo/nVYDe2zIVEv4SQw==",
+      "path": "circularprogressbar/2.8.0.16",
+      "hashPath": "circularprogressbar.2.8.0.16.nupkg.sha512"
+    },
+    "FontAwesome.Sharp/5.15.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b72giuP5i2aR2W+u1gdYfYnTRkMIvI78idSDgrgcSV0aSE/nwJcMoh3sItxugMqOcNeIHxveGxAxcrcTYmwlHA==",
+      "path": "fontawesome.sharp/5.15.3",
+      "hashPath": "fontawesome.sharp.5.15.3.nupkg.sha512"
+    },
+    "TargitChartApi/0.256.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+PrP5qpxDvhZ2uGK/jBcGd22crl8phBsakY8GeAgTAwvOM4pIkL1sqT9aAqS4zVysJPoKSdd9gD+71hFNHi21A==",
+      "path": "targitchartapi/0.256.0",
+      "hashPath": "targitchartapi.0.256.0.nupkg.sha512"
+    }
+  }
+}

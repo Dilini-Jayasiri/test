@@ -1,0 +1,123 @@
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.exe
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.deps.json
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.runtimeconfig.json
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.runtimeconfig.dev.json
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.dll
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.pdb
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\CircularProgressBar.dll
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AdminDash.resources
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Dashboard.resources
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.DonationCamping.resources
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Donors.resources
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Registration.resources
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Requests.resources
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Login.resources
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Properties.Resources.resources
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.UserRegister.resources
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.GenerateResource.cache
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AssemblyInfoInputs.cache
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AssemblyInfo.cs
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.CoreCompileInputs.cache
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.CopyComplete
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.dll
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.pdb
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.genruntimeconfig.cache
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.AssemblyReference.cache
+D:\MIT\2nd Year 1st\IAD\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Donations.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.exe
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.deps.json
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.runtimeconfig.json
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.runtimeconfig.dev.json
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.dll
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.pdb
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\CircularProgressBar.dll
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csprojAssemblyReference.cache
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AdminDash.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Dashboard.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.DonationCamping.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Donations.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Donors.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Registration.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Requests.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Login.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Properties.Resources.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.UserRegister.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.GenerateResource.cache
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AssemblyInfoInputs.cache
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AssemblyInfo.cs
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.CoreCompileInputs.cache
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.CopyComplete
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.dll
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.pdb
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.genruntimeconfig.cache
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.changePW.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.incorrectLogin.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.reigisterSuccess.resources
+E:\Level 2 semester 1\Interactive application development\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\TargitChartApi.dll
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.exe
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.deps.json
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.runtimeconfig.json
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.runtimeconfig.dev.json
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.dll
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.pdb
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\CircularProgressBar.dll
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\TargitChartApi.dll
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.AssemblyReference.cache
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.changePW.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AdminDash.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Dashboard.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.DonationCamping.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Donations.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Donors.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Registration.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Requests.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.incorrectLogin.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Login.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Properties.Resources.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.UserRegister.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.reigisterSuccess.resources
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.GenerateResource.cache
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AssemblyInfoInputs.cache
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AssemblyInfo.cs
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.CoreCompileInputs.cache
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.CopyComplete
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.dll
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.pdb
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.genruntimeconfig.cache
+D:\MIT\2nd Year 1st\IAD\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.ErrorMessageAge.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.exe
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.deps.json
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.runtimeconfig.json
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.runtimeconfig.dev.json
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.dll
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\BDMS.pdb
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\CircularProgressBar.dll
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\bin\Debug\netcoreapp3.1\TargitChartApi.dll
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csprojAssemblyReference.cache
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.changePW.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AdminDash.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.ErrorMessageAge.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Dashboard.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.DonationCamping.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Donations.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Donors.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Registration.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Requests.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.incorrectLogin.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Login.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Properties.Resources.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.UserRegister.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.reigisterSuccess.resources
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.GenerateResource.cache
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AssemblyInfoInputs.cache
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.AssemblyInfo.cs
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.CoreCompileInputs.cache
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.csproj.CopyComplete
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.dll
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.pdb
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.genruntimeconfig.cache
+E:\Level 2 semester 1\Interactive application development\Project final ui\BBMS PROJECT\Project\Project\BDMS\BDMS\obj\Debug\netcoreapp3.1\BDMS.Forms.Hospital.resources
